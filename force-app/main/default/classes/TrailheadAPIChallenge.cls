@@ -29,7 +29,7 @@
  * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
-public class trailheadAPIChallenge {
+public class TrailheadAPIChallenge {
     public String result{get;set;}//= new List<String>();    
     
     // method for obtaining an access token via OAuth 2.0 - returns a string access_token

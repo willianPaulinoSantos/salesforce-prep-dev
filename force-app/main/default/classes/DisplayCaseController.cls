@@ -14,6 +14,4 @@ public class DisplayCaseController {
             return cases[0];
         }        
     }
-    
-    
 }
