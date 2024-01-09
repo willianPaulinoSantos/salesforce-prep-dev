@@ -43,7 +43,7 @@ public class trailheadAPIChallenge {
             
      // initialize a series of variables that will be used to get the access token
      // make sure to replace all of the <'FILL_ME_IN'> for your code to work 
-     string clientId = 'FILL_ME_IN'
+     string clientId = 'FILL_ME_IN';
      string clientSecret = 'FILL_ME_IN';
      string username = 'FILL_ME_IN';
      string password = 'FILL_ME_IN';
